@@ -6,4 +6,4 @@
 
 # About
 
-For more information, Check out my resume website @ [Algo1337](https://websign.pro)
+Bio update returning soon!
