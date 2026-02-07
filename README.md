@@ -2,8 +2,7 @@
   <h1>Algo1337</h1>
   <p>An independent self taught SWE</p>
 </div>
-
-<img alt="C" src="https://github.com/user-attachments/assets/c2e68e6e-489a-42b4-ae30-8810d49a11a4">
+<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png">
 
 # About
 - Name: Algo, 28 y/o
