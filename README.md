@@ -6,7 +6,7 @@
 
 # About
 - Name: Algo, 28 y/o
-- Location: Nashville, TN
+- Location: Plano, TX
 
 ### Tech Stack
 
