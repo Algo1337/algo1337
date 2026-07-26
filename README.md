@@ -16,4 +16,4 @@
 
 ### Projects
 
-- Minimal UEFI-based OS
+Updating soon....
