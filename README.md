@@ -16,4 +16,4 @@
 
 ### Projects
 
-Updating soon....
+General low level systems programming, Recreating early-on computer tech stack from OS up starting with OS, Lang, Debuggers!
